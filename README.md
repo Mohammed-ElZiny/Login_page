@@ -4,9 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an assignment for Fayoum CS 4th year
+A simple login page UI 
 
-A few resources to get you started if this is your first Flutter project:
+Advisor Dev: Hamada Mostafa Mohamed
+
+![Alt Text]()
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
